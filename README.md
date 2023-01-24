@@ -11,7 +11,7 @@ This repository contains the data, notebooks and output for the analyses done in
 Himalaya Bir Shrestha
 
 ## Package requirements
-Besides the general packages such as `pandas`, `matplotlib`, `numpy` and `scipy`, `pandas_datareader` and `plotly` packages were installed for certain analytical works and data visualisation.Following packages were installed and used for "A complete word processing with Python" post: `PyPDF2`, `PyMUPDF`, `python-docx`, `docx2pdf`.
+Besides the general packages such as `pandas`, `matplotlib`, `numpy` and `scipy`, `pandas_datareader` and `plotly` packages were installed for certain analytical works and data visualisation.Following packages were installed and used for "A complete word processing with Python" post: `PyPDF2`, `PyMuPDF`, `python-docx`, `docx2pdf`.
 
 
 
