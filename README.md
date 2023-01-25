@@ -5,7 +5,7 @@ This repository contains the data, notebooks and output for the analyses done in
 - [Merit Order and Marginal Abatement Cost Curve in Python](https://towardsdatascience.com/merit-order-and-marginal-abatement-cost-curve-in-python-fe9f77358777)
 - [Wind energy physics and resource assessment with Python](https://towardsdatascience.com/wind-energy-physics-and-resource-assessment-with-python-789a0273e697)
 - [Learning curve effect on the global variable renewable energy deployment](https://towardsdatascience.com/learning-curve-effect-on-the-global-variable-renewable-energy-deployment-73d1e28da390)
-- A complete word processing with Python.
+- [A complete word processing with Python.](https://medium.com/p/ac4e66963f40#b8dc-f708af890d2a)
 
 ## Contributors
 Himalaya Bir Shrestha
