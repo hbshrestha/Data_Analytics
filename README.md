@@ -6,6 +6,7 @@ This repository contains the data, notebooks and output for the analyses done in
 - [Wind energy physics and resource assessment with Python](https://towardsdatascience.com/wind-energy-physics-and-resource-assessment-with-python-789a0273e697)
 - [Learning curve effect on the global variable renewable energy deployment](https://towardsdatascience.com/learning-curve-effect-on-the-global-variable-renewable-energy-deployment-73d1e28da390)
 - [A complete word processing with Python.](https://medium.com/p/ac4e66963f40#b8dc-f708af890d2a)
+- Running Python via Excel VBA - a case of time series resampling.
 
 ## Contributors
 Himalaya Bir Shrestha
