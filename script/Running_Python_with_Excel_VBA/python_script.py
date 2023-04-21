@@ -14,6 +14,9 @@ df = pd.read_excel(file).iloc[:, :5]
 df["Datetime"] = pd.to_datetime(df["Datetime"])
 df.set_index(["Datetime"], inplace = True)
 
+print (df.index)
+print (type(df.index))
+
 frequency = input("Enter the frequency you want to display? \n1. Original \n2. Monthly average\n3. Daily average \n4. Weekly average\n 5.Quarterly average \n 6.All of the above \n 7. Hourly average \n? ")
 
 if frequency == "Original":
@@ -60,11 +63,13 @@ elif frequency == "All of the above":
     fig, axs = plt.subplots(2, 2, figsize = (20, 10), sharey = True, sharex = True)
     df.resample(rule = "D").mean().plot(ax = axs[0, 0])
     axs[0, 0].set_title("Daily mean")
+    axs[0, 0].set_ylabel("Wh/m$^2$")
     df.resample(rule = "W").mean().plot(ax = axs[0, 1])
     axs[0, 1].set_title("Weekly mean")
     df.resample(rule = "M").mean().plot(ax = axs[1, 0])
     axs[1, 0].set_title("Monthly mean")
     df.resample(rule = "Q").mean().plot(ax = axs[1, 1])
+    axs[1, 0].set_ylabel("Wh/m$^2$")
     axs[1, 1].set_title("Quarterly mean")
     fig.suptitle("Mean solar irradiance in four locations converted to different temporal frequencies")
     plt.show()
