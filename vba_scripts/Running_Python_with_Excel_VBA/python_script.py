@@ -14,9 +14,6 @@ df = pd.read_excel(file).iloc[:, :5]
 df["Datetime"] = pd.to_datetime(df["Datetime"])
 df.set_index(["Datetime"], inplace = True)
 
-print (df.index)
-print (type(df.index))
-
 frequency = input("Enter the frequency you want to display? \n1. Original \n2. Monthly average\n3. Daily average \n4. Weekly average\n 5.Quarterly average \n 6.All of the above \n 7. Hourly average \n? ")
 
 if frequency == "Original":
