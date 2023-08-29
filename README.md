@@ -7,7 +7,8 @@ This repository contains the data, notebooks and output for the analyses done in
 - [Learning curve effect on the global variable renewable energy deployment](https://towardsdatascience.com/learning-curve-effect-on-the-global-variable-renewable-energy-deployment-73d1e28da390)
 - [A complete word processing with Python.](https://medium.com/p/ac4e66963f40#b8dc-f708af890d2a)
 - [Running Python via Excel VBA - a case of time series resampling.](https://towardsdatascience.com/running-python-via-excel-vba-a-case-of-time-series-resampling-fe108610e4e4?sk=203582fa0ccf64be5c5ecf683172f652)
-- Time zone handling with Python
+- [Handling time zones with Python](https://medium.com/towards-data-science/handling-time-zones-with-python-a100bfc7f6df)
+- Creating a project updates tracker in Excel using VBA in three simple steps
 
 ## Contributors
 Himalaya Bir Shrestha
