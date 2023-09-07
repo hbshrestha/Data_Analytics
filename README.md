@@ -8,7 +8,7 @@ This repository contains the data, notebooks and output for the analyses done in
 - [A complete word processing with Python.](https://medium.com/p/ac4e66963f40#b8dc-f708af890d2a)
 - [Running Python via Excel VBA - a case of time series resampling.](https://towardsdatascience.com/running-python-via-excel-vba-a-case-of-time-series-resampling-fe108610e4e4?sk=203582fa0ccf64be5c5ecf683172f652)
 - [Handling time zones with Python](https://medium.com/towards-data-science/handling-time-zones-with-python-a100bfc7f6df)
-- Creating a project updates tracker in Excel using VBA in three simple steps
+- [Creating a project updates tracker in Excel using VBA in three simple steps](https://medium.com/towards-data-science/creating-a-project-updates-tracker-in-excel-using-vba-c085e6fe05a8)
 
 ## Contributors
 Himalaya Bir Shrestha
